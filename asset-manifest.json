@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.2ee54ee8.chunk.css",
-    "main.js": "/repository-name/static/js/main.5a84c48a.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.5a84c48a.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.a75fefbf.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.a75fefbf.js.map",
-    "static/js/2.af2f88b6.chunk.js": "/repository-name/static/js/2.af2f88b6.chunk.js",
-    "static/js/2.af2f88b6.chunk.js.map": "/repository-name/static/js/2.af2f88b6.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "static/css/main.2ee54ee8.chunk.css.map": "/repository-name/static/css/main.2ee54ee8.chunk.css.map",
-    "static/js/2.af2f88b6.chunk.js.LICENSE.txt": "/repository-name/static/js/2.af2f88b6.chunk.js.LICENSE.txt"
+    "main.css": "/Tab-Menu-React/static/css/main.2ee54ee8.chunk.css",
+    "main.js": "/Tab-Menu-React/static/js/main.5a84c48a.chunk.js",
+    "main.js.map": "/Tab-Menu-React/static/js/main.5a84c48a.chunk.js.map",
+    "runtime-main.js": "/Tab-Menu-React/static/js/runtime-main.0fbd4e08.js",
+    "runtime-main.js.map": "/Tab-Menu-React/static/js/runtime-main.0fbd4e08.js.map",
+    "static/js/2.af2f88b6.chunk.js": "/Tab-Menu-React/static/js/2.af2f88b6.chunk.js",
+    "static/js/2.af2f88b6.chunk.js.map": "/Tab-Menu-React/static/js/2.af2f88b6.chunk.js.map",
+    "index.html": "/Tab-Menu-React/index.html",
+    "static/css/main.2ee54ee8.chunk.css.map": "/Tab-Menu-React/static/css/main.2ee54ee8.chunk.css.map",
+    "static/js/2.af2f88b6.chunk.js.LICENSE.txt": "/Tab-Menu-React/static/js/2.af2f88b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a75fefbf.js",
+    "static/js/runtime-main.0fbd4e08.js",
     "static/js/2.af2f88b6.chunk.js",
     "static/css/main.2ee54ee8.chunk.css",
     "static/js/main.5a84c48a.chunk.js"
